@@ -9,7 +9,7 @@
     "build": "webpack --mode production && JEKYLL_ENV=production bundle exec jekyll build"
   },
   "dependencies": {
-    "@babel/core": "^7.28.4",
+    "@babel/core": "^7.28.5",
     "@babel/preset-env": "^7.28.3",
     "babel-loader": "^10.0.0",
     "glob": "^11.0.3",
